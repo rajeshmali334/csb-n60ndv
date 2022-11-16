@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://rajeshmali334.github.io/csb-n60ndv/static/css/main.fea8dca8.chunk.css",
+    "main.js": "https://rajeshmali334.github.io/csb-n60ndv/static/js/main.10e43301.chunk.js",
+    "main.js.map": "https://rajeshmali334.github.io/csb-n60ndv/static/js/main.10e43301.chunk.js.map",
+    "runtime-main.js": "https://rajeshmali334.github.io/csb-n60ndv/static/js/runtime-main.7a6b9674.js",
+    "runtime-main.js.map": "https://rajeshmali334.github.io/csb-n60ndv/static/js/runtime-main.7a6b9674.js.map",
+    "static/css/2.8757ddda.chunk.css": "https://rajeshmali334.github.io/csb-n60ndv/static/css/2.8757ddda.chunk.css",
+    "static/js/2.7b7a9186.chunk.js": "https://rajeshmali334.github.io/csb-n60ndv/static/js/2.7b7a9186.chunk.js",
+    "static/js/2.7b7a9186.chunk.js.map": "https://rajeshmali334.github.io/csb-n60ndv/static/js/2.7b7a9186.chunk.js.map",
+    "index.html": "https://rajeshmali334.github.io/csb-n60ndv/index.html",
+    "static/css/2.8757ddda.chunk.css.map": "https://rajeshmali334.github.io/csb-n60ndv/static/css/2.8757ddda.chunk.css.map",
+    "static/css/main.fea8dca8.chunk.css.map": "https://rajeshmali334.github.io/csb-n60ndv/static/css/main.fea8dca8.chunk.css.map",
+    "static/js/2.7b7a9186.chunk.js.LICENSE.txt": "https://rajeshmali334.github.io/csb-n60ndv/static/js/2.7b7a9186.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a6b9674.js",
+    "static/css/2.8757ddda.chunk.css",
+    "static/js/2.7b7a9186.chunk.js",
+    "static/css/main.fea8dca8.chunk.css",
+    "static/js/main.10e43301.chunk.js"
+  ]
+}
